@@ -143,8 +143,7 @@
 /* All App */
 .withFrame-2dL45i {
     background: linear-gradient(var(--drag-gradient1), var(--drag-gradient2));
-    border-top-left-radius: var(--round-corners);
-    border-top-right-radius: var(--round-corners);
+
     min-height: 32px;
     margin-top: 0;
     border: var(--border-width) solid var(--border-color);
@@ -153,8 +152,7 @@
 }
 
 .layers-OrUESM {
-    border-bottom-right-radius: var(--round-corners);
-    border-bottom-left-radius: var(--round-corners);
+    
 }
 .layers-OrUESM {
     border: var(--border-width) solid var(--border-color);
@@ -193,10 +191,10 @@
 .winButton-3UMjdg {
     color: transparent !important;
     border-radius: 50%;
-    width: 12px !important;
-    height: 12px !important;
+    width: 16px !important;
+    height: 16px !important;
     top: 10px;
-    left: 5px;
+    right: 5px;
     margin-left: 5px;
     margin-right: 5px;
 }
